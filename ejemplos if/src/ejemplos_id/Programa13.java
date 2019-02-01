@@ -20,7 +20,7 @@ serie=leer.nextInt();
 	 
 	 System.out.println(i);
  }
- System.out.println("¿Desea hacer otra serie (s/n)? ");
+ System.out.println("Â¿Desea hacer otra serie (s/n)? ");
  r=leer.next();
 }while(r.equals("s"));
 	}
