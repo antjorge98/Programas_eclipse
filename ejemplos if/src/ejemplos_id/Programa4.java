@@ -14,11 +14,11 @@ public class Programa_4 {
 		    System.out.println("Ingrese su edad: ");
 		     edad=leer.nextInt();
 		     if(edad>=18){
-		    	 System.out.println(nombre+" es mayor de edad con "+edad+" años");
+		    	 System.out.println(nombre+" es mayor de edad con "+edad+" aÃ±os");
 			     
 		     }
 		     else {
-		    	 System.out.println(nombre+" es menor de edad con "+edad+" años");
+		    	 System.out.println(nombre+" es menor de edad con "+edad+" aÃ±os");
 		     }
 		     
 	}
